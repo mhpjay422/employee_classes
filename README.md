@@ -1,7 +1,7 @@
-Setup instructions
+#Setup instructions
 
 git clone employees.rb
-/n
+
 cd employees.rb
 
 bundle install
