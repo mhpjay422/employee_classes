@@ -1,13 +1,13 @@
 # Setup instructions
 
-git clone employees.rb
+git clone https://github.com/mhpjay422/employee_classes.git
 
-cd employees.rb
+cd employee_classes.rb
 
 bundle install
 
 code . or atom .
 
-ruby employees.rb
+ruby employee_classes.rb
 
 Play!
