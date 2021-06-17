@@ -93,3 +93,14 @@ end
 run_employees();
 
 # What is the differenc between using @ and self?
+
+# What did we practice today?
+
+# What have you learned?
+
+# What do you want to google?
+
+# What are you not sure of?
+
+# HW - google github cli and learn to use it. It will save you time =)
+
