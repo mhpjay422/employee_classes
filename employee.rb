@@ -16,8 +16,9 @@ class Employee
     boss
   end
 
-  def bonus(percentage)
-    self.salary * percentage / 100
+  def bonus()
+    percent = 10
+    self.salary * percent / 100
   end
 end
 
@@ -35,8 +36,9 @@ class Manager < Employee
     subordinate
   end
 
-  def bonus(percentage)
-    self.total_subsalary * percentage / 100
+  def bonus()
+    percent = 20
+    self.total_subsalary * percent / 100
   end
 
   protected
@@ -84,8 +86,8 @@ def run_employees
   c.add_employee(a)
   c.add_employee(b)
   d.add_employee(c)
-  e.add_employee(d)
-  binding.pry;
+  # e.add_employee(d)
+  # binding.pry;
   # f = Executive.new()
 
 end
