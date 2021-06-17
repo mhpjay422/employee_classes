@@ -92,15 +92,34 @@ end
 
 run_employees();
 
-# What is the differenc between using @ and self?
+# What is the differenc between using @method and self.method? Think context
 
-# What did we practice today?
+# What does super do? Think bubbles
 
-# What have you learned?
+# What did we practice today? 
 
-# What do you want to google?
+# What have you learned? 
 
-# What are you not sure of?
+# What do you want to google? 
 
-# HW - google github cli and learn to use it. It will save you time =)
+# What are you not sure of? 
+
+# HW - 5 Minutes
+
+# add a new file to this folder
+# create a class. 
+# write a initialize method adding two variables that the class will start with. 
+# create a class that inherits the first and write a initialize method. Use super. 
+# require pry at the top of the file. Bind pry. Open terminal and start a pry session
+# Create new instances of your classes. 
+# examine what these objects look like
+
+
+# optional 
+
+# create methods for these classes and invoke them along with the above
+# Use pry to examine outputs
+
+# google github cli and learn to use it. It will save you time =)
+
 
